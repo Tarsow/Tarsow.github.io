@@ -1,0 +1,7 @@
+.menu > *
+{
+    background-color: aliceblue;;
+    border: 0.2em solid blue;
+    margin: 2%;
+    border-radius: 15%;
+}
